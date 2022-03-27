@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5834da21-979b-50f2-df1c-2f35f6d79ca5
 resourcetype: Document
 title: david_roe.pdf
 uid: 6ff34a76-5f70-e3ab-acf2-9953a9329420

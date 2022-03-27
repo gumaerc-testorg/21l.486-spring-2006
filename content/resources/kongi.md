@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2e8d56b1-677e-23f0-1711-8a7ba25c19f8
 resourcetype: Document
 title: kongi.pdf
 uid: 90623ac0-7f21-eb36-71f3-0f5e7341da8c

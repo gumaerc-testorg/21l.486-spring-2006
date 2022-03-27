@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2e8d56b1-677e-23f0-1711-8a7ba25c19f8
 resourcetype: Document
 title: stylesheet.pdf
 uid: cece7e47-8635-7e1a-0611-43609795a086

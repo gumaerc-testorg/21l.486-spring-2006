@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5834da21-979b-50f2-df1c-2f35f6d79ca5
 resourcetype: Document
 title: woman.pdf
 uid: 59974bee-074f-80f7-17b4-22269c865431

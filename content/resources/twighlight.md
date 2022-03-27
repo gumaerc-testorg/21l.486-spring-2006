@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2e8d56b1-677e-23f0-1711-8a7ba25c19f8
 resourcetype: Document
 title: twighlight.pdf
 uid: 5d03f302-98ea-4eb2-30d1-8ec3ff0ffe18

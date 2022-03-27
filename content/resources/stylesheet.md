@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6d5ebeaa-67ec-9225-8763-dd5d6e66569a
 resourcetype: Document
 title: stylesheet.pdf
 uid: 5d5f480e-b80a-3222-689e-616560de958f

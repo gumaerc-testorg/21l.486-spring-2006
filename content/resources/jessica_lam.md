@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5834da21-979b-50f2-df1c-2f35f6d79ca5
 resourcetype: Document
 title: jessica_lam.pdf
 uid: 74bda4fa-8f3c-2bd0-4f65-38ce4e032f08

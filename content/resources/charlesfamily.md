@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: bb45cccd-324f-8555-aaa5-9c457e6889f6
 resourcetype: Document
 title: charlesfamily.pdf
 uid: 43255e3b-f713-8f1a-a8d0-f6ee55fb85bc

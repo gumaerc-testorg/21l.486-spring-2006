@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2e8d56b1-677e-23f0-1711-8a7ba25c19f8
 resourcetype: Document
 title: streetcar.pdf
 uid: 6f82ea6a-6828-2625-3243-5df77ff3dd43
