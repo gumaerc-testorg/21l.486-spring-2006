@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lecture topics covered in the course along with
+  the assignment due dates.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -321,10 +323,10 @@ Sample Essays
 
 The work below is presented courtesy of the students, and used with permission.
 
-Roe, David. "The Search for Meaning." ([PDF]({{< baseurl >}}/resources/david_roe))
+Roe, David. "The Search for Meaning." ({{% resource_link 6ff34a76-5f70-e3ab-acf2-9953a9329420 "PDF" %}})
 
-Anonymous student. "Violent and Isolating Potentials of Familial Relationships in Beckett's _Happy Days_ and Churchill's _A Number_." ([PDF]({{< baseurl >}}/resources/anonymous_paper))
+Anonymous student. "Violent and Isolating Potentials of Familial Relationships in Beckett's _Happy Days_ and Churchill's _A Number_." ({{% resource_link 2baf6a68-ab80-122b-f36f-57851b039672 "PDF" %}})
 
-Lam, Jessica. "Consequences of Anglicizing Gaelic Names." ([PDF]({{< baseurl >}}/resources/jessica_lam))
+Lam, Jessica. "Consequences of Anglicizing Gaelic Names." ({{% resource_link 74bda4fa-8f3c-2bd0-4f65-38ce4e032f08 "PDF" %}})
 
-MIT student. "The Women in _Copenhagen_ and _Happy Days_." ([PDF]({{< baseurl >}}/resources/woman))
+MIT student. "The Women in _Copenhagen_ and _Happy Days_." ({{% resource_link 59974bee-074f-80f7-17b4-22269c865431 "PDF" %}})

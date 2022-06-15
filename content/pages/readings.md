@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -438,6 +439,6 @@ Brecht, Bertolt. "Short Description of a New Technique of Acting Which Produces 
 
 Miller, Arthur. "On Broadway: Notes on the Past and Future of American Theater." _Harper's Magazine,_ March 1999.
 
-_The Piano Lesson_: A Charles Family Tree ([PDF]({{< baseurl >}}/resources/charlesfamily))
+_The Piano Lesson_: A Charles Family Tree ({{% resource_link 43255e3b-f713-8f1a-a8d0-f6ee55fb85bc "PDF" %}})
 
 Lahr, John. "Been Here and Gone: How August Wilson Brought a Century of Black American Culture to the Stage." _The New Yorker,_ April 16, 2001, 50-65.
