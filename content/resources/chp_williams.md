@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_williams.jpg
 uid: 66bd382b-42d0-781f-cdc2-2ff941f764b3
 ---
 Tennessee Williams. (Image courtesy of Library of Congress.)
-

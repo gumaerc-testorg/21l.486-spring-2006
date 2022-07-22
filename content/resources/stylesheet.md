@@ -5,6 +5,7 @@ description: This resource includes information about  marginal abbreviations an
 file: /courses/21l-486-modern-drama-spring-2006/5d5f480eb80a3222689e616560de958f_stylesheet.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stylesheet.pdf
 uid: 5d5f480e-b80a-3222-689e-616560de958f
 ---
 This resource includes information about  marginal abbreviations and proper citation of sources or about standards of intellectual honesty.
-
