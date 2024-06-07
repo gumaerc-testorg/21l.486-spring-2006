@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work from the course.
 file: /courses/21l-486-modern-drama-spring-2006/4f2cfa65c2ad800c1c4ddad89e7552b0_copenhagen.pdf
+file_size: 12027
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

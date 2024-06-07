@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information about  marginal abbreviations and
   proper citation of sources or about standards of intellectual honesty.
 file: /courses/21l-486-modern-drama-spring-2006/5d5f480eb80a3222689e616560de958f_stylesheet.pdf
+file_size: 101888
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
