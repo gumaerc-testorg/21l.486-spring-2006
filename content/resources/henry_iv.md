@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work from the course.
 file: /courses/21l-486-modern-drama-spring-2006/fc98d05d1bd44070ee52320f7e19c3e0_henry_iv.pdf
+file_size: 94350
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
