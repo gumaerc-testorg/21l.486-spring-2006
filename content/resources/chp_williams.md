@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tennessee Williams. (Image courtesy of Library of Congress.)
-file: /courses/21l-486-modern-drama-spring-2006/66bd382b42d0781fcdc22ff941f764b3_chp_williams.jpg
+file: /ol-ocw-studio-app/courses/21l-486-modern-drama-spring-2006/66bd382b42d0781fcdc22ff941f764b3_chp_williams.jpg
 file_size: 22585
 file_type: image/jpeg
 image_metadata:

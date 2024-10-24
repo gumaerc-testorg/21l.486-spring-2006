@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work from the course.
-file: /courses/21l-486-modern-drama-spring-2006/628d23eedead57faa40cbf9a2608e761_piano_lesson.pdf
+file: /ol-ocw-studio-app/courses/21l-486-modern-drama-spring-2006/628d23eedead57faa40cbf9a2608e761_piano_lesson.pdf
 file_size: 12463
 file_type: application/pdf
 learning_resource_types: []
