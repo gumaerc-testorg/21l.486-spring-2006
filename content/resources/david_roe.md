@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample essay by David Roe, used with permission.
-file: /courses/21l-486-modern-drama-spring-2006/6ff34a765f70e3abacf29953a9329420_david_roe.pdf
+file: /ol-ocw-studio-app/courses/21l-486-modern-drama-spring-2006/6ff34a765f70e3abacf29953a9329420_david_roe.pdf
 file_size: 22513
 file_type: application/pdf
 learning_resource_types:
