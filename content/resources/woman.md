@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample essay by MIT student, used with permission.
-file: /ol-ocw-studio-app/courses/21l-486-modern-drama-spring-2006/59974bee074f80f717b422269c865431_woman.pdf
+file: /courses/21l-486-modern-drama-spring-2006/59974bee074f80f717b422269c865431_woman.pdf
 file_size: 126783
 file_type: application/pdf
 learning_resource_types:
