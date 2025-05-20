@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the Charles family tree.
-file: /ol-ocw-studio-app/courses/21l-486-modern-drama-spring-2006/43255e3bf7138f1aa8d0f6ee55fb85bc_charlesfamily.pdf
+file: /courses/21l-486-modern-drama-spring-2006/43255e3bf7138f1aa8d0f6ee55fb85bc_charlesfamily.pdf
 file_size: 324717
 file_type: application/pdf
 learning_resource_types:
